@@ -1,0 +1,26 @@
+﻿  Source.cpp
+C:\Users\Admin\source\repos\ChaserScene\ChaserScene\Source.cpp(550,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\ChaserScene\ChaserScene\Source.cpp(687,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\ChaserScene\ChaserScene\Source.cpp(878,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\ChaserScene\ChaserScene\Source.cpp(921,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\ChaserScene\ChaserScene\Source.cpp(1187,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\ChaserScene\ChaserScene\Source.cpp(1665,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\ChaserScene\ChaserScene\Source.cpp(1875,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\ChaserScene\ChaserScene\Source.cpp(1947,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\ChaserScene\ChaserScene\Source.cpp(2193,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\ChaserScene\ChaserScene\Source.cpp(2244,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\ChaserScene\ChaserScene\Source.cpp(2271,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\ChaserScene\ChaserScene\Source.cpp(2409,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\ChaserScene\ChaserScene\Source.cpp(2497,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\ChaserScene\ChaserScene\Source.cpp(2583,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\ChaserScene\ChaserScene\Source.cpp(2670,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\ChaserScene\ChaserScene\Source.cpp(2755,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\ChaserScene\ChaserScene\Source.cpp(2840,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\ChaserScene\ChaserScene\Source.cpp(2929,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\ChaserScene\ChaserScene\Source.cpp(2985,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\ChaserScene\ChaserScene\Source.cpp(3043,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\ChaserScene\ChaserScene\Source.cpp(3098,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\ChaserScene\ChaserScene\Source.cpp(3156,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\ChaserScene\ChaserScene\Source.cpp(3211,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\ChaserScene\ChaserScene\Source.cpp(3269,20): warning C4018: '<': signed/unsigned mismatch
+  ChaserScene.vcxproj -> C:\Users\Admin\source\repos\ChaserScene\Debug\ChaserScene.exe
